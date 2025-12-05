@@ -1,5 +1,7 @@
 # CLNAD-Net
 An intelligent diagnostic network for cervical lymph nodes
 
-The code is coming soon.
+CLNAD-Net.py is network structure file, remove_artifcat.py is preprocess (remove artifacts) files.
+
+Other details will be announced later.
 
